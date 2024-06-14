@@ -63,10 +63,29 @@ button {
   padding: 1em 2em;
   margin-bottom: 10%;
 }
+
+.heading {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: bold;
+  font-size: 1.2em;
+  color: #25a2c3;
+  line-height: 1.5;
+  margin-bottom: 2%;
+}
+#important-paragraph {
+  margin: 0 5%;
+}
 article p {
+  margin: 5%;
+}
+.paragraph {
   margin: 0 15% 5% 15%;
 }
-
+article {
+  margin-bottom: 7%;
+}
 footer a {
   color: #c8e7f0;
 }
