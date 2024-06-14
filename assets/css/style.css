@@ -51,6 +51,18 @@ h1 {
   font-weight: bold;
   line-height: 1;
 }
+button {
+  background-color: #f04c2f;
+  color: white;
+  border: none;
+  border-radius: 3px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: bold;
+  padding: 1em 2em;
+  margin-bottom: 10%;
+}
 article p {
   margin: 0 15% 5% 15%;
 }
