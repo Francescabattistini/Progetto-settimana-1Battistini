@@ -99,6 +99,7 @@ article {
   color: white;
   padding: 11% 11px;
   margin-bottom: 15%;
+  margin-top: 15%;
 }
 .quote {
   font-size: 1.4em;
@@ -121,7 +122,23 @@ article {
   margin: 0% 5% 10% 5%;
 }
 
-/* *********************************** */
+/* *****************footer****************** */
+
+#copyright {
+  padding-bottom: 15%;
+}
+
+.inline {
+  display: inline;
+}
+
+.block {
+  display: block;
+}
+
+i {
+  font-size: 20px;
+}
 footer a {
   color: #c8e7f0;
 }
@@ -131,4 +148,8 @@ footer h1 {
 footer {
   background-color: #25a2c3;
   color: #c8e7f0;
+}
+hr {
+  width: 50%;
+  margin: 10% auto;
 }
