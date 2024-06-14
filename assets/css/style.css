@@ -79,11 +79,21 @@ h1 {
 article p {
   margin: 5%;
 }
-.paragraph {
+.paragraphUno {
   margin: -13px 15% 8% 15%;
 }
+.paragraph {
+  margin: 0 15% 8% 15%;
+}
+
 article {
   margin-bottom: 7%;
+}
+
+#notebook {
+  border-radius: 50%;
+  padding-bottom: 2em;
+}
 }
 footer a {
   color: #c8e7f0;
