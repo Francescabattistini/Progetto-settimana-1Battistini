@@ -38,12 +38,13 @@ main {
   margin-bottom: 10%;
   padding-bottom: 10%;
 }
-
 h1 {
   color: #25a2c3;
+}
+.importantHeading {
   line-height: 1.5;
   font-family: "Montserrat", sans-serif;
-  font-size: 3em;
+  font-size: 2em;
   font-weight: bold;
   line-height: 1;
   padding: 1em;
@@ -76,9 +77,6 @@ h1 {
   margin: 2px 12%;
 }
 
-article p {
-  margin: 5%;
-}
 .paragraphUno {
   margin: -13px 15% 8% 15%;
 }
@@ -94,7 +92,20 @@ article {
   border-radius: 50%;
   padding-bottom: 2em;
 }
+.red-bg {
+  background-color: #e22d0e;
 }
+.testimonianze {
+  color: white;
+  padding: 11% 11px;
+  margin-bottom: 15%;
+}
+.quote {
+  font-size: 1.4em;
+  margin-top: 1em;
+}
+
+/* *********************************** */
 footer a {
   color: #c8e7f0;
 }
